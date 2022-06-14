@@ -129,6 +129,6 @@
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayedmoataz&layout=compact&theme=algolia" alt="sayedmoataz" /></a> </p>
-
+	
 -----
 Last Edited on: 06/14/2022
