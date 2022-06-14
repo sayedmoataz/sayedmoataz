@@ -16,7 +16,6 @@
 - :nerd_face: Always `learning new things`
 - ☕ I believe, a perfect cup of tea can be the ultimate solution to any stress.
 
-
 ### 💬 Find me [elsewhere on the internet](https://linktr.ee/sayedmoataz).
 
 <br>
@@ -63,7 +62,6 @@
     <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2314354C.svg?style=plastic&logo=php&logoColor=white">
   </a>
 </p>
-
 
 ### 👉 Frontend Development And User Interface
 <p align="center"> 
@@ -126,8 +124,6 @@
   <br/>
    <a href="https://github.com/sayedmoataz"><img alt="sayedmoataz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sayedmoataz&custom_title=sayedmoataz's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
-
 <br/>
 
 ## :trophy: Git profile Trophies
