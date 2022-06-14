@@ -11,7 +11,7 @@
 - 💻 I'm majoring in computer science.
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning `Flutter` Application Development.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1IFIEGaVRBS3OROxRPZ8TSc6mJqGAwttI/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1MQJJMzW5tX6U9cdPQ0T2ZbWSroYTESpe/view?usp=sharing).
 - 💚 I'm currently working on the <a href="https://play.google.com/store/apps/details?id=com.privilegeapps.privilege">Privilege<a> Website project.
 - :nerd_face: Always `learning new things`
 - ☕ I believe, a perfect cup of tea can be the ultimate solution to any stress.
