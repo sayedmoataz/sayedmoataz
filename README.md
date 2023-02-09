@@ -19,6 +19,11 @@
 ### 💬 Find me [elsewhere on the internet](https://linktr.ee/sayedmoataz).
 
 <br>
+## 🔖My Dev Card From Daily Dev
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
+	
+<br>
 
 ## 🛠️ My Skills
 
