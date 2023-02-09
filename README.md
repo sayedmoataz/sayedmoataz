@@ -20,7 +20,7 @@
 
 <br>
 ## 🔖My Dev Card From Daily Dev
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/sayedmoataz/sayedmoataz/blob/main/devcard.svg" width="400" alt="Sayed Moataz's Dev Card"/></a>
 
 	
 <br>
