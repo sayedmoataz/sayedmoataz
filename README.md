@@ -7,11 +7,11 @@
 </p>
 
 ## <picture> <img src = "https://github.com/sayedmoataz/sayedmoataz/blob/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" width = 50px>  </picture>  About me
-- :school: I am a `fresh graduate` at Faculty of Computers & Artificial Intelligence at Helwan University
+- :school: I am a `fresh graduate` from the Faculty of Computers & Artificial Intelligence at Helwan University
 - 💻 I'm majoring in computer science.
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning `Flutter` Application Development.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1704gJszTNJIYUrBMX8bAbBehTZ0GVkAS/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1eAE2avSJRLAw78uYDWxL9fneFl6--L2d/view?usp=sharing).
 - 💚 I'm currently working on the <a href="https://play.google.com/store/apps/details?id=com.privilegeapps.privilege">Privilege<a>, <a href="https://play.google.com/store/apps/details?id=com.Hadayekhof.HadayekHof">Hadayek Hof<a>, and <a href="https://play.google.com/store/apps/developer?id=Elagy+App"> 3Elagk<a> Official startup.
 - :nerd_face: Always `learning new things`
 - ☕ I believe, a perfect cup of tea can be the ultimate solution to any stress.
