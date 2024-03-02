@@ -3,16 +3,17 @@
 <h1 align="center">Hi , I'm Sayed Moataz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%326771&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Student;Flutter+Developer;Software+Engineer+;Always+learning+new+things"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Madimi+One&size=22&duration=3000&pause=1000&color=1A84F7&center=true&vCenter=true&random=true&width=435&lines=Flutter+Developer+;Computer+Science+Graduate+;Always+Learning+New+Things;Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedmoataz&label=Profile%20views&color=0e75b6&style=flat" alt="sayedmoataz" /> </p>
+
 ## <picture> <img src = "https://github.com/sayedmoataz/sayedmoataz/blob/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" width = 50px>  </picture>  About me
-- :school: I am a `fresh graduate` from the Faculty of Computers & Artificial Intelligence at Helwan University
+- :school: Computer Science graduate
 - 💻 I'm majoring in computer science.
 - :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning `Flutter` Application Development.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1eAE2avSJRLAw78uYDWxL9fneFl6--L2d/view?usp=sharing).
-- 💚 I'm currently working on the <a href="https://play.google.com/store/apps/details?id=com.privilegeapps.privilege">Privilege<a>, <a href="https://play.google.com/store/apps/details?id=com.Hadayekhof.HadayekHof">Hadayek Hof<a>, and <a href="https://play.google.com/store/apps/developer?id=Elagy+App"> 3Elagk<a> Official startup.
+- :student: I’m currently working as a `Flutter Developer` at <a href="https://mcti.io/">MetaChain Technologies</a>.
+- :thinking: I’m currently open for a `part-time opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1eAE2avSJRLAw78uYDWxL9fneFl6--L2d/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 - ☕ I believe, a perfect cup of tea can be the ultimate solution to any stress.
 
@@ -83,6 +84,14 @@
   &emsp;
   <a href="#">
     <img alt="photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=Adobe%20Photoshop&logoColor=black">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="XD" src="https://img.shields.io/badge/XD-31A8FF?style=plastic&logo=Adobe%20XD&logoColor=black">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-31A8FF?style=plastic&logo=Figma&logoColor=black">
   </a> 
 </p>
 
@@ -108,6 +117,10 @@
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Abdroid Studio" src="https://img.shields.io/badge/Android%20Studio-0078d7.svg?style=plastic&logo=android-studio&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="XCode" src="https://img.shields.io/badge/XCode-0078d7.svg?style=plastic&logo=XCode&logoColor=white"></a>
 </p>
 
 ## 📊 Github Stats
@@ -128,14 +141,16 @@
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/sayedmoataz"><img alt="sayedmoataz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sayedmoataz&custom_title=sayedmoataz's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-<br/>
+
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayedmoataz&bg_color=000000&color=ffffff&line=42db24&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayedmoataz&layout=compact&theme=algolia" alt="sayedmoataz" /></a> </p>
 	
 -----
-Last Edited on: 06/14/2022
+Last Edited on: 02 March 2024
+
+
