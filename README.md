@@ -21,10 +21,13 @@
 
 <br>
 	
-## 🔖 My Dev Card From Daily Dev
-	
-<a href="https://app.daily.dev/sayedmoataz"><img src="https://github.com/sayedmoataz/sayedmoataz/blob/main/devcard.svg" width="400" alt="Sayed Moataz's Dev Card"/></a>
-
+## <img src="https://github.com/sayedmoataz/sayedmoataz/blob/main/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+<p align="center">
+	<a href="mailto:sayedmoataz9@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://wa.me/0201147880178"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/sayedmoataz/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/SaayeedMDawoud"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+</p>
 	
 <br>
 
@@ -149,7 +152,7 @@
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayedmoataz&layout=compact&theme=algolia" alt="sayedmoataz" /></a> </p>
-	
+
 -----
 Last Edited on: 02 March 2024
 
