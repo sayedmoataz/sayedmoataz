@@ -13,7 +13,7 @@
 - 💻 Currently enhancing my skills in `Flutter` by exploring new topics.
 - :technologist: Learning `QA automation` with `Selenium`, `Maven`, and planning to dive into `Docker` and `Jenkins`.
 - :student: I’m working as a `Flutter Developer` at <a href="https://mcti.io/">MetaChain Technologies</a>.
-- 🛠️ Working on various freelancing projects and applying for `mid-level Flutter Developer` positions.
+- 🛠️ Working on various freelancing projects and applying for <a href ="https://drive.google.com/file/d/1DtGiHv3azq398EpGZAxrjkdROkIgdAMO/view?usp=sharing">`mid-level Flutter Developer`</a> positions.
 - :nerd_face: Always `learning new things` like GetX, Riverpod, and QA tools.
 - ☕ A perfect cup of tea can be the ultimate solution to any stress.
 
