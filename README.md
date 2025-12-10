@@ -183,7 +183,7 @@ Course management app with enhanced UI/UX, user engagement tools, and robust tes
 
 ## 📊 GitHub Stats
 
-<details>
+
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
@@ -194,16 +194,15 @@ Course management app with enhanced UI/UX, user engagement tools, and robust tes
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
   
 ----
 
-<details>
+
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayedmoataz&bg_color=000000&color=ffffff&line=42db24&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</details>
+
 
 ## :trophy: Git Profile Trophies
 
