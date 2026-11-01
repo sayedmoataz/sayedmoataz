@@ -121,8 +121,13 @@ Senior Mobile Developer with **4+ years of production experience** architecting 
 ### 🐍 Contribution Snake Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </p>
+
 
 ### 📬 Get in Touch
 
