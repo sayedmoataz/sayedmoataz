@@ -2,22 +2,22 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # تشغيل تلقائي كل 12 ساعة
+  workflow_dispatch: # إمكانية التشغيل اليدوي
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake SVG
+      - name: Generate Tokyo Night Snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: sayedmoataz
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23ff9e64&color_dots=%231a1b26,%233b4261,%237aa2f7,%232ac3de,%23bb9af7
 
-      - name: Push to Output Branch
+      - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
