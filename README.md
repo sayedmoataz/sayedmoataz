@@ -105,18 +105,24 @@ Senior Mobile Developer with **4+ years of production experience** architecting 
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedmoataz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sayed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedmoataz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedmoataz&theme=tokyonight&hide_border=true" alt="Sayed's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayedmoataz&bg_color=000000&color=ffffff&line=1A84F7&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayedmoataz&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayedmoataz&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
+
+### 🐍 Contribution Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ### 📬 Get in Touch
 
